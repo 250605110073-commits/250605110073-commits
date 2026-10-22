@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Dwi Andina! 🎉
+# 👋 Halo, Saya ALVIAN DESWENDI! 🎉
 
 ## 📋 Informasi Pribadi
 - **Nama**: ALVIAN DESWENDI
