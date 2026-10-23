@@ -7,7 +7,7 @@
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://drive.google.com/drive/folders/1ShBouaD-pN5XcyEFRt84vKtVaEpFq492?usp=drive_link) | [Program]) |
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://drive.google.com/drive/folders/1ShBouaD-pN5XcyEFRt84vKtVaEpFq492?usp=drive_link) | [Program]() |
 |  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Modul 02](https://drive.google.com/drive/folders/1ShBouaD-pN5XcyEFRt84vKtVaEpFq492?usp=drive_link) | [Program]() |
 |  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://drive.google.com/drive/folders/1ShBouaD-pN5XcyEFRt84vKtVaEpFq492?usp=drive_link) | [Program]() |
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://drive.google.com/drive/folders/1ShBouaD-pN5XcyEFRt84vKtVaEpFq492?usp=drive_link) | [Program]() |
