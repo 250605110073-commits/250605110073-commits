@@ -3,6 +3,7 @@
 ## 📋 Informasi Pribadi
 - **Nama**: ALVIAN DESWENDI
 - **NIM**: 250605110073
+- **Mata Kuliah**: MOBILE PROGRAMMING PRAKTIKUM
 - **Kelas Praktikum**: E
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
