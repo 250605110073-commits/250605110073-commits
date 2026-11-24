@@ -1,6 +1,7 @@
-# 👋 Halo, Saya ALVIAN DESWENDI! 🎉
+# MOBILE PROGRAMMING PRAKTIKUM (E)
+## 👋 Halo, Saya ALVIAN DESWENDI! 🎉 
 
-## 📋 Informasi Pribadi
+### 📋 Informasi Pribadi
 - **Nama**: ALVIAN DESWENDI
 - **NIM**: 250605110073
 - **Mata Kuliah**: MOBILE PROGRAMMING PRAKTIKUM
